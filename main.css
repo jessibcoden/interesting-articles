@@ -1,0 +1,87 @@
+
+.main_header {
+	display: flex;
+	justify-content: center;
+}
+
+.pie_time {
+	width: 250px;
+	height:	250px;
+}
+
+.main_header h1 {
+	align-self: flex-end;
+	font-size: 3em;
+}
+
+/***** Article Styling *****/
+
+article {
+	padding: 10px;
+}
+
+article header {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+article footer {
+	text-align: center;
+}
+
+.millionaire {
+	background-color: #05668d;
+	font-size: 1.25em;
+	line-height: 1.5;
+	color: white;
+	border: 5px dotted #76abc0;
+	border-radius: 10%;
+	font-family: 'Inconsolata', monospace;
+	padding:;
+}
+
+.tip1 {
+	background-color: #028090;
+	font-size: 1.5em;
+	line-height: 1;
+	color: #fffof5;
+	border: 5px solid #5eaeb8;
+	border-radius: 30%;
+	font-family: 'PT Mono', monospace;
+}
+
+.tip1 h3 {
+	padding: 40px;
+	padding-bottom: 0;
+}
+
+.peanut-butter {
+	background-color: #3fa89d;
+	border: 10px dashed #84c7c0;
+	border-radius: 3%;
+	padding: 10px;
+	font-size: 20px;
+	line-height: .9;
+	color: f0fff0;
+	font-family: 'Anonymous Pro', monospace;
+}
+
+.tip2 {
+	background-color: #02c39a;
+	font-size: 1.5em;
+	line-height: 1;
+	color: #fffof5;
+	border: 8px solid #5ed8be;
+	border-radius: 30%;
+	font-family: 'VT323', monospace;
+}
+
+.chess {
+	background-color: #f0f3bd;
+	font-size: 1em;
+	line-height: 2.2;
+	color: #696969;
+	border: 15px dotted #afb18a;
+	border-radius: 15%;
+	font-family: 'Nova Mono', monospace;
+}
